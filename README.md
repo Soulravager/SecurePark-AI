@@ -1,4 +1,4 @@
-# Rackkon
+# SecurePark AI
 Parking managements security system 
 
 This is a pre-dev model of small project based on a ANPR system with intergraded Parking Management system with managing capability
